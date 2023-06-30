@@ -1,0 +1,6 @@
+A = int(input())
+B = input()
+print(int(B[-1])* A)
+print(int(B[-2])* A)
+print(int(B[-3])* A)
+print(int(B) * A)
